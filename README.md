@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
  <br />
 <div align="center">
-    <img src="https://sapu.eco.br/images/Logo_SAPU.png" alt="Logo" width="80" height="80">
+    <img src="https://sapu.eco.br/images/Logo_SAPU-white.webp" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Sistema Analítico de Progressão Universitária</h1>
