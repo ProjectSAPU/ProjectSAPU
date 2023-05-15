@@ -43,7 +43,7 @@ Desenvolvido com
 
 [<img src="https://github.com/MarcoAntonio13.png?size=250" width=115><br><sub>@MarcoAntonio13</sub>](https://github.com/MarcoAntonio13) 
                                                           <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Sobre o Projeto
+<!-- ## Sobre o Projeto
 
 | Perguntas                                                                                                         | Respostas             |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,9 +52,9 @@ Desenvolvido com
  Simplifique o controle e faça mais.                                                      | Planeje, acompanhe e gerencie a sua matriz curricular, otimizando o processo.  |
  Defina metas e as cumpra, mais rapidamente.                                                     | Mantenha-se no caminho certo para atingir seus objetivos com metas para conclusão da disciplina.  |                                                                                            
 
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
  
-## 📈 Pagina Hospedada [🔝](#welcome-badges-4-readmemd-profile)
+## Pagina Hospedada [🔝](📈)
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
