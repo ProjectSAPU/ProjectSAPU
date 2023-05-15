@@ -4,9 +4,9 @@
 <div align="center">
     <img src="https://sapu.eco.br/images/Logo_SAPU-white.webp" alt="Logo" width="80" height="80">
   </a> -->
-<br /><br /><br />
+<br /><br />
   <h1 align="center">Sistema Analítico de Progressão Universitária</h1>
-
+<br />
   <p align="center">
 "O Sistema Analítico de Progressão Universitária é uma ferramenta desenvolvida para facilitar a gestão da matriz curricular pelos estudantes universitários. Através desse sistema, os estudantes podem visualizar com clareza as disciplinas que precisam cursar, os pré-requisitos necessários para cada uma delas, bem como o progresso que já realizaram em relação à conclusão do curso. Isso permite que os estudantes tenham uma visão mais abrangente de sua formação acadêmica, bem como uma maior autonomia na gestão de seu próprio percurso universitário. Além disso, o Sistema Analítico de Progressão Universitária também pode ser utilizado pelas instituições de ensino para monitorar o progresso dos alunos, garantindo a qualidade e eficiência do processo de ensino-aprendizagem."
     <br />
