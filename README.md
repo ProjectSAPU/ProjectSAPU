@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
-<a name="readme-top"></a>
+<!-- <a name="readme-top"></a>
  <br />
 <div align="center">
     <img src="https://sapu.eco.br/images/Logo_SAPU-white.webp" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h1 align="center">Sistema Analítico de Progressão Universitária</h1>
 
