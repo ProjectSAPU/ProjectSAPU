@@ -56,7 +56,7 @@ Desenvolvido com
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://sapu.eco.br/" /> | `http://web.sbs.ifc.edu.br/~rafael.riegel` |
+| <img width='200' src="https://sapu.eco.br/" /> | `https://sapu.eco.br` |
 
 
 <!-- LICENSE -->
