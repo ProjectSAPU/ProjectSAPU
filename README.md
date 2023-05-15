@@ -10,8 +10,6 @@
   <p align="center">
 "O Sistema Analítico de Progressão Universitária é uma ferramenta desenvolvida para facilitar a gestão da matriz curricular, para os estudantes universitários. Através desse sistema, os estudantes podem visualizar com clareza as disciplinas que precisam cursar, os pré-requisitos necessários para cada uma delas, bem como o progresso que já realizaram em relação à conclusão do curso. Isso permite que os estudantes tenham uma visão mais abrangente de sua formação acadêmica, bem como uma maior autonomia na gestão de seu próprio percurso universitário. Além disso, o Sistema Analítico de Progressão Universitária também pode ser utilizado pelas instituições de ensino para monitorar o progresso dos alunos, garantindo a qualidade e eficiência do processo de ensino-aprendizagem."
     <br />
- <br />
- <br /><br />
   <h2 align="center">Em Desenvolvimento</h2>
 <br />
  <br />
