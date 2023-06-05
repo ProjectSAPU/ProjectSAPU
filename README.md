@@ -42,7 +42,7 @@ Desenvolvido com
 
 [<img src="https://github.com/luizcosta123.png?size=250" width=115><br><sub>@luizcosta123</sub>](https://github.com/luizcosta123)
 
-                                                          <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ## Sobre o Projeto
 
 | Perguntas                                                                                                         | Respostas             |
